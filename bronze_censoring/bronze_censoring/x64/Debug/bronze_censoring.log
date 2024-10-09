@@ -1,0 +1,3 @@
+﻿  bronze_censoring.cpp
+C:\Users\Chris_2yelyef\source\repos\bronze_censoring\bronze_censoring.cpp(19,15): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+  bronze_censoring.vcxproj -> C:\Users\Chris_2yelyef\source\repos\bronze_censoring\x64\Debug\bronze_censoring.exe
